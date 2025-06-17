@@ -24,10 +24,6 @@ and propose two taxonomies: one on GM-DC tasks and another on GM-DC approaches. 
 study interactions between different GM-DC tasks and approaches. Furthermore, we highlight research gaps,
 research trends, and potential avenues for future exploration.
 
-##  :earth_asia: News
-* **Oct 28, 2024:** The slides for our ICIP tutorial on *"Generative Modeling for Limited Data, Few Shots and Zero Shot"* can be found [here](https://drive.google.com/file/d/1L4k2VTywZDnIhl51Or4I-kOcMt26CSP4/view?usp=sharing).
-* **July 28, 2023:** First release (113 works included)!
-
 
 ## Generative Tasks Definition
 We define 8 different generative tasks under data constraints based on the rigorous review of the literature. The description of these tasks can be found in the follwing table:
